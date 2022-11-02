@@ -10,7 +10,7 @@ public class Ex3_a {
     private static final String MSG_2 = "No es negativo : ";
     private static final String MSG_3 = "Es negativo : ";
     
-    
+ //Pre: Introduce un numero    
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int num;
@@ -23,5 +23,5 @@ public class Ex3_a {
         }
     
     }
-    
+//Post: Determina si un numero es negtivo   
 }

@@ -4,7 +4,7 @@
  */
 package cat.institutmvm;
 import java.util.Scanner;
-
+//c) Determinar si un nombre és positiu i menor que 100.
 public class Ex3_c {
 
     private static final String MSG_1 = "Introduce un numero : ";
@@ -12,7 +12,7 @@ public class Ex3_c {
     private static final String MSG_3 = "Es negativo";
     private static final String MSG_4 = "Es positivo y mayor que 100 ";
     private static final String MSG_5 = " ";
-
+//Pre: Introduce un numero 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;
@@ -29,4 +29,5 @@ public class Ex3_c {
         }
 
     }
+//Post: Determin si un numero es positivo o menor que 100
 }

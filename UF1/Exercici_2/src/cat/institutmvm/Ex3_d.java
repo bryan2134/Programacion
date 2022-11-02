@@ -5,7 +5,7 @@
 package cat.institutmvm;
 
 import java.util.Scanner;
-
+//d)Determinar si un nombre per pertany a l'interval [-3,27].
 public class Ex3_d {
 
     private static final String MSG_1 = "Introduce un numero :  ";

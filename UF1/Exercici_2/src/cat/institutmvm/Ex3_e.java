@@ -5,7 +5,7 @@
 package cat.institutmvm;
 
 import java.util.Scanner;
-
+//e) Determinar si un nombre no pertany al interval [25,50].
 public class Ex3_e {
 
     private static final String MSG_1 = "Introduce un  numero : ";

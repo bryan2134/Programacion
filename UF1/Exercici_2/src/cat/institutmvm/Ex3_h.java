@@ -4,7 +4,7 @@
  */
 package cat.institutmvm;
 import java.util.Scanner;
-
+//h) Elevi al quadrat un nombre si és parell i al cub si és senar.
 public class Ex3_h {
     private static final String MSG_1 = "Introduce un número : ";
     private static final String MSG_2 = "Es par lo elevamos al cuadrado : ";

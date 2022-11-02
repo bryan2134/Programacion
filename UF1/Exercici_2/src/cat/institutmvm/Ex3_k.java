@@ -5,7 +5,7 @@
 package cat.institutmvm;
 
 import java.util.Scanner;
-
+//k) Donats 2 nombres, mostreu si un d’ells és múltiple de l’altre. Suposa que primer es dóna el nombre més gran.
 public class Ex3_k {
 
     private static final String MSG_1 = "Introduce un número : ";

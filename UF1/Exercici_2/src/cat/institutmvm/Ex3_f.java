@@ -4,6 +4,7 @@
  */
 package cat.institutmvm;
 import java.util.Scanner;
+//f) Determinar si el mòdul d'un nombre és menor que 15. No pots fer servir la funció valor absolut.
 
 public class Ex3_f {
     private static final String MSG_1 = "Introduce un numero :  ";

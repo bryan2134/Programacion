@@ -11,17 +11,17 @@ public class Ex3_b {
     private static final String MSG_1 = "Introduce un numero :  ";
     private static final String MSG_2 = "Es mas grande que 35  ";
     private static final String MSG_3 = "Es mas pequeño que 35 ";
-
+//Pre: Introduce un numero
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;
         System.out.println(MSG_1);
         num = sc.nextInt();
-        if (num > 35) {
+        if (num > 35) {//Una condicion si num es ms grande que 35
             System.out.println(MSG_2);
         } else {
             System.out.println(MSG_3);
         }
     }
-
+//Post: Determina si un numero es mas grande
 }

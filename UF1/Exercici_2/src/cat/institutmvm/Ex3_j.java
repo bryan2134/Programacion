@@ -5,6 +5,7 @@
 package cat.institutmvm;
 
 import java.util.Scanner;
+//j) Calculeu el màxim de tres nombres.
 
 public class Ex3_j {
 

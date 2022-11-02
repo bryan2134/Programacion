@@ -4,6 +4,7 @@
  */
 package cat.institutmvm;
 import java.util.Scanner;
+//g) Determinar si un enter és senar (ho serà quan el residu de la seva divisió per 2 sigui diferent de zero).
 
 public class Ex3_g {
     private static final String MSG_1 = "Introduce un numero : ";

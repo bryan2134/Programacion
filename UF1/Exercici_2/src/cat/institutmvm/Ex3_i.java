@@ -4,6 +4,7 @@
  */
 package cat.institutmvm;
 import java.util.Scanner;
+//i) Calculeu el màxim de 2 nombres donats.
 
 public class Ex3_i {
     private static final String MSG_1 = "Introduce un número : ";
